@@ -1,0 +1,14 @@
+# tbltebtu-user 6.0.1 MMB29M N915FYXXS1DRI2 release-keys
+- manufacturer: samsung
+- platform: apq8084
+- codename: tblte
+- flavor: tbltebtu-user
+- release: 6.0.1
+- id: MMB29M
+- incremental: N915FYXXS1DRI2
+- tags: release-keys
+- fingerprint: samsung/tbltebtu/tblte:6.0.1/MMB29M/N915FYXXS1DRI2:user/release-keys
+- is_ab: false
+- brand: samsung
+- branch: tbltebtu-user-6.0.1-MMB29M-N915FYXXS1DRI2-release-keys
+- repo: samsung_tblte_dump
